@@ -1,0 +1,4 @@
+groceries|200.00
+ook|500.00
+lothes|700.00
+lippers|200.00
